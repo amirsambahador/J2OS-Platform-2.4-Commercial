@@ -1,4 +1,4 @@
-# J2OS Platform 2.4
+# J2OS Platform 2.4 (Commercial)
 
 J2OS Platform is a collection of small, independent building blocks for business applications. It has a Java back end (libraries under `org.j2os.platform`) and a Vue/Nuxt front end (composables and components). Each block does one job, does it once and does it well, so that an application does not have to write the same code again: lists and tables, validation, reports, security, messaging, and artificial intelligence from speech and image recognition to training a language model and making a talking-face video.
 
