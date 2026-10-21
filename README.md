@@ -210,11 +210,6 @@ At the end of every book there are four appendices:
 - **C. Pitfalls, limits and tuning.** The risky points and practical advice.
 - **D. Message reference.** Every message the module can produce, with its cause.
 
-Languages:
-
-- English: `README.md` in each module folder.
-- Persian: `README.fa.html` in each module folder, with `index.html` as the start page. It introduces the platform, lists every book with a paragraph and has a search box.
-
 If you have never used a module, a short book such as [useString](FrontEnd/useString/README.md) shows the style of the books quickly.
 
 ## Folder layout
@@ -225,12 +220,11 @@ README/
 ├── index.html            (Persian start page)
 ├── BackEnd/
 │   └── <module>/
-│       ├── README.md
-│       └── README.fa.html
+│       └── README.md
 └── FrontEnd/
     └── <module>/
-        ├── README.md
-        └── README.fa.html
+        └── README.md
+
 ```
 
 ## What is new in 2.4
