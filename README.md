@@ -217,7 +217,6 @@ If you have never used a module, a short book such as [useString](FrontEnd/useSt
 ```text
 README/
 ├── README.md             (this file)
-├── index.html            (Persian start page)
 ├── BackEnd/
 │   └── <module>/
 │       └── README.md
